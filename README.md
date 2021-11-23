@@ -14,3 +14,6 @@ Possibly allocated GPU: Tesla V100 / Tesla P100.
 - It is extremely slow to directly zip/unzip files on Google Drive. 
 - Colab internet speed is very fast, consider [wget](https://www.gnu.org/software/wget/) to download datasets online.
 - It is possible files break when transferring between Google Drive and Colab Workspace, just try it again.
+
+# Sample Usage
+See [Template](https://github.com/ruijieren98/google_colab_config/blob/main/Machine_Template.ipynb).
